@@ -1,0 +1,9 @@
+list vs array
+oop (solid principle)
+list comprehension
+why tuple is immutable
+clean code,context manager, set kaile use garne
+iterator vs generator, recursion and demerits of recursion,
+break, continue difference, underscore backside of variable, and frontside of variables, 
+inheritance kasari garinxa,fucntion overloading,method overloading hunxa, class varibles ra instances
+lambda fuctions,args, kargs, diff between range abd xrange

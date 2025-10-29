@@ -1,0 +1,3 @@
+Modules
+A module is simply a file that contains Python code (functions, classes, or variables) that we can use in other programs. It helps in organizing and reusing code.
+Module contains the mymodule.py file where the required functions are define and then those functions are used in the another python file uing the import
